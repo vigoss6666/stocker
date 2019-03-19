@@ -1,0 +1,3 @@
+const surname = () => {
+	 return "shaikh"; 
+}
